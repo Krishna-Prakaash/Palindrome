@@ -55,10 +55,10 @@ namespace PALINDROME
 
 ## Output:
 PALINDROME
-![OUTPUT-01](OP-1.PNG)
+![OUTPUT-01](OP-1.png)
 
 NOT A PALINDROME:
-![OUTPUT-02](OP-2.PNG)
+![OUTPUT-02](OP-2.png)
 
 
 ## Result:

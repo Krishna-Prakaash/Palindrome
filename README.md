@@ -23,6 +23,8 @@ print palindrome if it's equal else print not a palindrome.
 Save the program and run the program in visual studio 2022.
 ## Program:
 DEVELOPED BY : KRISHNA PRAKAASH D M 
+
+
 REG.NO : 212221230052
 ```
 using System;

@@ -56,11 +56,10 @@ namespace PALINDROME
 ```
 
 ## Output:
-PALINDROME
+ NOT A PALINDROME
 ![OP-1](https://user-images.githubusercontent.com/93427144/225880173-fe31c9b1-c816-4ebc-8a5e-8da4ede70006.png)
 
-
-NOT A PALINDROME:
+PALINDROME:
 ![OP-2](https://user-images.githubusercontent.com/93427144/225880262-2979e0c8-c225-4889-9c1b-074ead6c5c79.png)
 
 

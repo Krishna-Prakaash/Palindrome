@@ -57,11 +57,11 @@ namespace PALINDROME
 
 ## Output:
 PALINDROME
-![OUTPUT-01](![OP-1](https://user-images.githubusercontent.com/93427144/225879344-57ccb2cd-1102-41f2-9195-f47212018833.png))
+![OP-1](https://user-images.githubusercontent.com/93427144/225880173-fe31c9b1-c816-4ebc-8a5e-8da4ede70006.png)
+
 
 NOT A PALINDROME:
-![OUTPUT-02](![OP-2](https://user-images.githubusercontent.com/93427144/225879760-109cb193-a6ff-476c-984e-1139d3b59ec0.png))
-
+![OP-2](https://user-images.githubusercontent.com/93427144/225880262-2979e0c8-c225-4889-9c1b-074ead6c5c79.png)
 
 
 ## Result:
